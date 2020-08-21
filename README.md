@@ -1,4 +1,4 @@
-![Serenity XBL Logo](https://i.imgur.com/WARzDCT.png)
+![Serenity XBL Logo](https://i.imgur.com/QaTlzoV.png)
 
 ![Serenity XBL Panel](https://i.imgur.com/Qhp8kt6.png)
 
