@@ -15,9 +15,16 @@
 Lifetime: $50
 ```
 
+# Social Media
+```
+Instagram: @sprx.sh
+Discord: Cosmic#1337
+Discord Server: https://discord.me/serenitypanel
+```
+
 # Payment Options
 ```
 Selly (Live @ 8/27/20): https://serenityxblpanel.selly.store/category/29a1d3ac
-Paypal (Contact my Disord: Cosmic#1337)
-CashApp (Contacr my Discord: Cosmic#1337)
+Paypal
+CashApp
 ```
