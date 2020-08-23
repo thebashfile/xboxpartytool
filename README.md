@@ -11,6 +11,8 @@
 Kick
 IP Spoofer
 IP Pulling
+IP Pull History
+Friends List with Parties
 XUID Grabber
 ```
 
