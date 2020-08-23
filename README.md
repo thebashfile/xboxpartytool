@@ -20,7 +20,6 @@ XUID Grabber
 ```
 1 Day: $1
 1 Week: $5
-1 Month: $10
 3 Months: $25
 Lifetime: $40
 ```
