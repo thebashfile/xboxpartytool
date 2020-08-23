@@ -6,6 +6,14 @@
  - This tool is meant for security & protection purposes!
  - I am not responsible for what you do/use with this tool!
 
+# Features
+```
+Kick
+IP Spoofer
+IP Pulling
+XUID Grabber
+```
+
 # Prices
 ```
 1 Day: $1
