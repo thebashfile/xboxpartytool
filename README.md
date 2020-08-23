@@ -35,7 +35,7 @@ Discord Server: https://discord.me/serenitypanel
 
 # Payment Options
 ```
-Selly: https://serenityxblpanel.selly.store/category/29a1d3ac
+Sellix: https://sellix.io/serenitypanel
 Paypal: PayPal.me/cosmicwrld
 CashApp: $cosmicedits
 ```
