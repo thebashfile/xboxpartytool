@@ -36,5 +36,5 @@ Discord Server: https://discord.me/serenitypanel
 # Payment Options
 ```
 (Preferred) Sellix: https://sellix.io/serenitypanel
-(If Sellix goes down) CashApp: $cosmicedits
+(If Sellix is Down) CashApp: $cosmicedits (Message my discord when bought)
 ```
