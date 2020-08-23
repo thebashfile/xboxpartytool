@@ -17,6 +17,7 @@ Lifetime: $50
 
 # Social Media
 ```
+Cracked.to: https://cracked.to/sprx
 Instagram: @sprx.sh
 Discord: Cosmic#1337
 Discord Server: https://discord.me/serenitypanel
