@@ -35,7 +35,6 @@ Discord Server: https://discord.me/serenitypanel
 
 # Payment Options
 ```
-Sellix: https://sellix.io/serenitypanel
-Paypal: PayPal.me/cosmicwrld
-CashApp: $cosmicedits
+(Preferred) Sellix: https://sellix.io/serenitypanel
+(if Sellix goes down) CashApp: $cosmicedits
 ```
