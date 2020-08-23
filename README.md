@@ -22,7 +22,7 @@ XUID Grabber
 1 Week: $5
 1 Month: $10
 3 Months: $25
-Lifetime: $50
+Lifetime: $40
 ```
 
 # Social Media
