@@ -8,7 +8,7 @@
 
 # Features
 ```
-Kick/Open/Crash
+Kick/Open/Crash/Invite
 Messaging
 Gamertag Lookup
 IP Spoofer
