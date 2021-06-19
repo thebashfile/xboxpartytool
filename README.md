@@ -21,5 +21,4 @@ XUID Grabber
 Cracked.to: https://cracked.to/sprx
 Instagram: @bashfile
 Discord: Cosmic#7167
-Discord Server: https://discord.me/serenitypanel
 ```
