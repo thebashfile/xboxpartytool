@@ -8,7 +8,7 @@
 
 # Features
 ```
-Kick/Open/Crash
+Kick/Open/Crash/Invite
 Messaging
 Gamertag Lookup
 IP Spoofer
@@ -21,5 +21,4 @@ XUID Grabber
 Cracked.to: https://cracked.to/sprx
 Instagram: @bashfile
 Discord: Cosmic#7167
-Discord Server: https://discord.me/serenitypanel
 ```
