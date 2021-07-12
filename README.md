@@ -18,7 +18,8 @@ XUID Grabber
 
 # How to get my Token?
 ```
-https://www.youtube.com/watch?v=RtRHEeiOlrk
+Downloads in Description
+Video Here: https://www.youtube.com/watch?v=RtRHEeiOlrk
 ```
 
 # Social Media
