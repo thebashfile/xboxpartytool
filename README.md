@@ -16,10 +16,31 @@ Friends List with Parties
 XUID Grabber
 ```
 
+# Virus Detected/Cant Open?
+```
+Yes a very common comment. My obfuscator creates this issue with my program as it scrambles the 
+code so it looks malicious to certain Anti Viruses. If you do not trust Serenity simply dont download it.
+Your Anti Virus is deleting Serenity.
+```
+
 # How to get my Token?
 ```
 Downloads in Description
 Video Here: https://www.youtube.com/watch?v=RtRHEeiOlrk
+```
+
+# my internet isn't working now, what do I do?
+```
+Fiddler creates a proxy for it to work, simply follow these instructions.
+1. Click your windows button and type "Change proxy settings" and click it
+2. Scroll down until you see "Manual Proxy Setup" and Disable it
+3. Done
+```
+
+# "Unable to modify value"
+```
+Try to re-open Serenity, if that doesnt work then the user 
+may have certain settings on that create this issue. It is unclear yet.
 ```
 
 # Social Media
