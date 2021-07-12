@@ -26,7 +26,7 @@ XUID Grabber
 6. Click Tools → Options → HTTPS → Click "Decrypt HTTPS Traffic"
 7. Click "Ok"
 8. Click your profile on the Companion App
-9. Goto Fiddler and look at the left and find "peoplehub.xboxlive", Click it.
+9. Goto Fiddler and look at the left and find "peoplehub.xboxlive" or anything with "xuid", Click it.
 10. At the top right click "Inspectors", Scroll down to Security
 11. Right Click "Authorization" → Right Click → Copy Header → Paste into Serenity → Delete "Authorization: "
 12. Login
