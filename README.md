@@ -39,8 +39,7 @@ Fiddler creates a proxy for it to work, simply follow these instructions.
 
 # "Unable to modify value"
 ```
-Try to re-open Serenity, if that doesnt work then the user 
-may have certain settings on that create this issue. It is unclear yet.
+Try to re-open Serenity, this issue is unclear yet. May have been patched
 ```
 
 # Social Media
