@@ -39,7 +39,7 @@ Fiddler creates a proxy for it to work, simply follow these instructions.
 
 # "Unable to modify value"
 ```
-Try to re-open Serenity, this issue is unclear yet. May have been patched
+Try to re-open Serenity, this issue is unclear yet. Kick may have been patched
 ```
 
 # Social Media
