@@ -1,6 +1,6 @@
 ![Serenity XBL Logo](https://i.imgur.com/eNESxyf.png)
 
-![Serenity XBL Panel](https://i.imgur.com/auKnJ66.png)
+![Serenity XBL Panel](https://i.imgur.com/yGCtEOH.png)
 
 ## Legal Disclaimer:			
  - This tool is meant for security & protection purposes!
