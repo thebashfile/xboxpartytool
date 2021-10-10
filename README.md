@@ -9,6 +9,8 @@
 # Features
 ```
 Kick/Open/Crash/Invite
+Status Spoofing
+Invite Spammer
 Messaging
 Gamertag Lookup
 IP Spoofer
