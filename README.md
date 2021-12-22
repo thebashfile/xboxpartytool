@@ -41,7 +41,7 @@ Fiddler creates a proxy for it to work, simply follow these instructions.
 
 # "Unable to modify value"
 ```
-Kick has been patched
+Kick, Crash and Open has been patched
 ```
 
 # Social Media
