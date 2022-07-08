@@ -27,7 +27,6 @@ Your Anti Virus is deleting Serenity.
 
 # How to get my Token?
 ```
-Downloads in Description
 Video Here: https://vimeo.com/714749873
 ```
 
