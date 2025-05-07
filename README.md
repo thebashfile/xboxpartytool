@@ -6,6 +6,12 @@
  - This tool is meant for security & protection purposes!
  - I am not responsible for what you do/use with this tool!
 
+# BEFORE DOWNLOADING
+```
+THIS PANEL IS PATCHED AS OF 6/10/23
+```
+
+
 # Features
 ```
 Kick/Open/Crash/Invite
